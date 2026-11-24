@@ -2,3 +2,4 @@
 *.mex*
 slprj/
 codegen/
+setupLocalEnv.m
